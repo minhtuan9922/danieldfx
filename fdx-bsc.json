@@ -1,0 +1,25 @@
+{
+  "name": "5Daxscan Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/minhtuan9922/danieldfx/main/5dax_logo.png",
+  "keywords": [
+    "msdc",
+    "bsc"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped FDX",
+        "address": "0xa27a128dD70479FD2B37662223C6523F10eBc21A",
+        "symbol": "WFDX",
+        "decimals": 18,
+        "chainId": 2006,
+        "logoURI": "https://raw.githubusercontent.com/minhtuan9922/danieldfx/main/5dax_logo.png"
+    }
+  ]
+}
