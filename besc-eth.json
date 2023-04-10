@@ -1,0 +1,24 @@
+{
+  "name": "Ethereum Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/eth.png",
+  "keywords": [
+    "usdc"
+  ],
+  "tokens": [
+    {
+        "name": "USDCoin",
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "symbol": "USDC",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/usdc.png"
+    }
+  ]
+}

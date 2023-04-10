@@ -1,0 +1,33 @@
+{
+  "name": "Bescscan Default",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/logobesc.png",
+  "keywords": [
+    "msdc",
+    "bsc"
+  ],
+  "tokens": [
+    {
+        "name": "Wrapped BESC",
+        "address": "0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c",
+        "symbol": "WBESC",
+        "decimals": 18,
+        "chainId": 535037,
+        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/logobesc.png"
+    },
+    {
+        "name": "BEANS",
+        "address": "0x91A46Fbf7D7a41f296457c937C782113078700b0",
+        "symbol": "BEANS",
+        "decimals": 18,
+        "chainId": 535037,
+        "logoURI": "https://raw.githubusercontent.com/briannichols0702/danielbesc/main/logobesc.png"
+    }
+  ]
+}

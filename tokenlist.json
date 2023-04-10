@@ -1,0 +1,93 @@
+{
+  "name": "Trust Wallet: Smart Chain",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2021-06-17T12:17:25.447Z",
+  "tokens": [
+      {
+          "chainId": 56,
+          "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "type": "BEP20",
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "name": "Wrapped BNB",
+          "symbol": "WBNB",
+          "decimals": 18,
+          "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+          "pairs": [
+              {
+                  "base": "c20000714_0x55d398326f99059ff775485246999027b3197955"
+              },
+              {
+                  "base": "c20000714_0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+              },
+              {
+                  "base": "c20000714_0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+              },
+              {
+                  "base": "c20000714_0xe9e7cea3dedca5984780bafc599bd69add087d56"
+              },
+              {
+                  "base": "c20000714_0x0daefd45ff8bff37229eb5ca873ebe932a928466"
+              }
+          ]
+      },
+      {
+          "chainId": 56,
+          "asset": "c20000714_0x55d398326f99059ff775485246999027b3197955",
+          "type": "BEP20",
+          "address": "0x55d398326f99059ff775485246999027b3197955",
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "decimals": 18,
+          "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+          "pairs": []
+      },
+      {
+          "chainId": 56,
+          "asset": "c20000714_0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "type": "BEP20",
+          "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+          "name": "USDC",
+          "symbol": "USDC",
+          "decimals": 18,
+          "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png",
+          "pairs": []
+      },
+      {
+        "asset": "c20000714_0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "type": "BEP20",
+        "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "name": "BNB pegged XRP Token",
+        "symbol": "XRP",
+        "decimals": 18,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png",
+        "pairs": []
+    },
+    {
+      "chainId": 56,
+      "asset": "c20000714_0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "type": "BEP20",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "name": "BNB pegged BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 56,
+      "asset": "c20000714_0x0daefd45ff8bff37229eb5ca873ebe932a928466",
+      "type": "BEP20",
+      "address": "0x0daefd45ff8bff37229eb5ca873ebe932a928466",
+      "name": "BFF",
+      "symbol": "BFF",
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/images/main/empty-token.png",
+      "pairs": []
+    }
+  ],
+  "version": {
+      "major": 11,
+      "minor": 0,
+      "patch": 0
+  }
+}
