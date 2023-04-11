@@ -14,12 +14,12 @@
   ],
   "tokens": [
     {
-        "name": "Wrapped FDX",
-        "address": "0xa27a128dD70479FD2B37662223C6523F10eBc21A",
-        "symbol": "WFDX",
-        "decimals": 18,
-        "chainId": 2006,
-        "logoURI": "https://raw.githubusercontent.com/minhtuan9922/danieldfx/main/5dax_logo.png"
+      "name": "Wrapped FDX",
+      "address": "0xa27a128dD70479FD2B37662223C6523F10eBc21A",
+      "symbol": "WFDX",
+      "decimals": 18,
+      "chainId": 2006,
+      "logoURI": "https://raw.githubusercontent.com/minhtuan9922/danieldfx/main/5dax_logo.png"
     }
   ]
 }
